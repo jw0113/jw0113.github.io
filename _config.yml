@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-remote_theme : mmistakes/jekyll-theme-basically-basic
+remote_theme : pages-themes/minimal
 jekyll-theme-basically-basic_skin: night # default, night, plum, sea, soft, steel
 lang: en-US
 title: My Project Site
@@ -39,7 +39,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: mmistakes/jekyll-theme-basically-basic
+theme: jekyll-theme-minimal
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
