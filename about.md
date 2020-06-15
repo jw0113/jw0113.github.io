@@ -5,6 +5,8 @@ titles: 소개
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
+##소개
+
 안녕하세요.
 
 저는 소프트웨어학과에 재학중인 학생입니다.
