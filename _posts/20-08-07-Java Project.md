@@ -5,7 +5,10 @@ tags: Java
 
 Java Project - Rhythm_Game (2018.12)
 
-scr : /screenshots/java_project1.PNG
+---
+image:
+  scr : /screenshots/java_project1.PNG
+---
 
 
 <!--more-->
